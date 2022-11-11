@@ -1,0 +1,9 @@
+{
+	"name": "kts-adf-poc",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8c43d12-a8ec-4a3d-aff9-06e4f63d8674",
+		"tenantId": "b9970fd2-103f-4833-8789-6880e475809d"
+	}
+}
